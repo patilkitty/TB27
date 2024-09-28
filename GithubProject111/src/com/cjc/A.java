@@ -5,5 +5,8 @@ public class A {
     System.out.println("main start");
     
   }
+  public void m1()
+  {
+  }
 
 }
