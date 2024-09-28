@@ -5,6 +5,10 @@ public class A {
     System.out.println("main start");
     
   }
+
+  public void m2()
+  {
+  }
   public void m1()
   {
   }
